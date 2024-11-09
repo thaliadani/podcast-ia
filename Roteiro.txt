@@ -1,0 +1,14 @@
+[INTRODUÇÃO] "E aí, nerd! Eu sou Thalia, e esse é o TriforceTech: Explorando a Tecnologia. Se você é apaixonado por tecnologia e está sempre em busca das últimas novidades, 
+você está no lugar certo! Hoje, temos algumas curiosidades incríveis e uma ferramenta de IA revolucionária que vai deixar todo mundo de queixo caído. Então, segura essa 
+emoção e vem comigo!"
+
+[CURIOSIDADE 1] "Você sabia que a primeira mensagem enviada pela internet foi em 1969? Ela foi enviada pelo professor Leonard Kleinrock da UCLA para um computador no 
+Stanford Research Institute. A mensagem era para ser 'LOGIN', mas o sistema travou depois das duas primeiras letras, então a primeira mensagem foi simplesmente 'LO'. 
+E pensar que a internet começou assim e hoje é parte essencial das nossas vidas!"
+
+[CURIOSIDADE 2] "Agora, vamos falar sobre uma novidade fantástica no mundo dos jogos. Você já ouviu falar da IA chamada 'DreamForge'? Essa ferramenta utiliza redes 
+neurais avançadas para criar mundos de jogos inteiros de forma procedural. Isso significa que cada jogo pode ser único, gerando ambientes, personagens e histórias de forma
+ automática. Imagine a quantidade de aventuras que podemos explorar com uma tecnologia dessas! É como ter um designer de jogos pessoal trabalhando para você 24/7."
+
+[FINALIZAÇÃO] "E por hoje é só, pessoal! Espero que tenham gostado dessas curiosidades e das novidades tecnológicas. Não se esqueçam de seguir nosso podcast para ficar por 
+dentro de tudo que rola no universo da tecnologia. Eu sou Thalia e esse foi o TriforceTech dessa semana. Até a próxima!"
