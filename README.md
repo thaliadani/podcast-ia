@@ -17,8 +17,6 @@ Voce é um roterista de podcast e vamos criar um podcast focado em tecnologias, 
 ### Capa: 
 Faça uma capa de um podcast: "TriforceTech:Explorando a Tecnologia", full hd
 
-<img src='https://github.com/user-attachments/assets/0e802913-249e-4d2c-ba3e-1219bb7e33d3' width=400px>
-
 ### Episódio de Podcast
 
 Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia cujo o nome é "TriforceTech:Explorando a Tecnologia", com o público alvo que ama tecnologia
