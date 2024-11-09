@@ -4,7 +4,7 @@
 
 Título e Subtítulo:
 
-Voce é um roterista de podcast e vamos criar um podcast focado em tecnologias, inicialmente vamos precisar de um título e subtítulo, me de 5 sugestoes.
+Você é um roteirista de podcast e vamos criar um podcast focado em tecnologias, inicialmente vamos precisar de um título e subtítulo, me de 5 sugestões.
 
 {REGRAS}
 - O título deve ser enxuto
@@ -12,16 +12,16 @@ Voce é um roterista de podcast e vamos criar um podcast focado em tecnologias, 
 - O formato do podcast é de notícias e entrevistas
 
 {REGRAS NEGATIVAS}
-- Não tenha o título e subtítulo em ingles
+- Não tenha o título e subtítulo em inglês
 
 ### Capa: 
 Faça uma capa de um podcast: "TriforceTech:Explorando a Tecnologia", full hd
 
 ### Episódio de Podcast
-
 Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia cujo o nome é "TriforceTech:Explorando a Tecnologia", com o público alvo que ama tecnologia
 
-o formato do roteiro deve ser:
+O formato do roteiro deve ser:
+
 [INTRODUÇÃO]
 [CURIOSIDADE 1]
 [CURIOSIDADE 2]
