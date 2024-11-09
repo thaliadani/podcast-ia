@@ -2,7 +2,7 @@
 
 ## Prompts utilizados:
 
-Título e Subtítulo:
+### Título e Subtítulo:
 
 Você é um roteirista de podcast e vamos criar um podcast focado em tecnologias, inicialmente vamos precisar de um título e subtítulo, me de 5 sugestões.
 
