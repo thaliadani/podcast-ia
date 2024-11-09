@@ -1,8 +1,8 @@
 <h1 align=center>🎙️ Podcast IA - TriforceTech : Explorando a Tecnologia</h1> 
 
-## Prompts utilizados:
+## Prompts utilizados
 
-### Título e Subtítulo:
+### Título e Subtítulo
 
 Você é um roteirista de podcast e vamos criar um podcast focado em tecnologias, inicialmente vamos precisar de um título e subtítulo, me de 5 sugestões.
 
@@ -14,7 +14,7 @@ Você é um roteirista de podcast e vamos criar um podcast focado em tecnologias
 {REGRAS NEGATIVAS}
 - Não tenha o título e subtítulo em inglês
 
-### Capa: 
+### Capa
 Faça uma capa de um podcast: "TriforceTech:Explorando a Tecnologia", full hd
 
 ### Episódio de Podcast
